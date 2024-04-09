@@ -1,0 +1,172 @@
+[ Mon Nov 20 21:31:23 2023 ] send WRQ for file: 456.txt
+[ Mon Nov 20 21:31:23 2023 ] Upload file: 456.txt finished.resent times: 0;Fullsize: 2
+[ Mon Nov 20 21:31:42 2023 ] send WRQ for file: 456.txt
+[ Mon Nov 20 21:31:42 2023 ] Upload file: 456.txt finished.resent times: 0;Fullsize: 2
+[ Mon Nov 20 21:34:17 2023 ] send WRQ for file: 123.txt
+[ Mon Nov 20 21:34:17 2023 ] Upload file: 123.txt finished.resent times: 0;Fullsize: 0
+[ Mon Nov 20 21:35:01 2023 ] send RRQ for file: client_test.cpp
+[ Mon Nov 20 21:35:01 2023 ] Error 1 File not found
+[ Mon Nov 20 21:35:28 2023 ] send RRQ for file: client_test.cpp
+[ Mon Nov 20 21:35:28 2023 ] Error 1 File not found
+[ Mon Nov 20 21:35:54 2023 ] send RRQ for file: TFTP_client.log
+[ Mon Nov 20 21:35:54 2023 ] Error 1 File not found
+[ Mon Nov 20 21:36:29 2023 ] send RRQ for file: TFTP_client.log
+[ Mon Nov 20 21:36:29 2023 ] Download file: TFTP_client.log finished.resent times: 0;Fullsize: 0
+[ Mon Nov 20 21:36:52 2023 ] send RRQ for file: client_test.cpp
+[ Mon Nov 20 21:37:03 2023 ] Download file: client_test.cpp finished.resent times: 9;Fullsize: 17361
+[ Mon Nov 20 21:38:52 2023 ] send WRQ for file: client_test.cpp
+[ Mon Nov 20 21:38:52 2023 ] Error 0 Undefined error codeF
+[ Mon Nov 20 21:41:23 2023 ] send WRQ for file: client_test.cpp
+[ Mon Nov 20 21:41:28 2023 ] Upload file: client_test.cpp failed.
+[ Mon Nov 20 21:41:39 2023 ] send WRQ for file: client_test.cpp
+[ Mon Nov 20 21:41:52 2023 ] Upload file: client_test.cpp failed.
+[ Mon Nov 20 21:42:05 2023 ] send WRQ for file: client_test.cpp
+[ Mon Nov 20 21:42:12 2023 ] Upload file: client_test.cpp finished.resent times: 7;Fullsize: 16972
+[ Mon Nov 20 21:54:46 2023 ] send WRQ for file: 1
+[ Mon Nov 20 21:54:58 2023 ] send RRQ for file: client.cpp
+[ Mon Nov 20 21:54:59 2023 ] Error 1 File not found
+[ Mon Nov 20 21:55:44 2023 ] send WRQ for file: 456.txt
+[ Mon Nov 20 21:55:46 2023 ] Upload file: 456.txt finished.resent times: 1;Fullsize: 2
+[ Mon Nov 20 21:55:57 2023 ] send WRQ for file: client.cpp
+[ Mon Nov 20 21:56:14 2023 ] Upload file: client.cpp failed.
+[ Mon Nov 20 21:56:28 2023 ] send WRQ for file: client.cpp
+[ Mon Nov 20 21:56:48 2023 ] Upload file: client.cpp failed.
+[ Tue Nov 21 08:50:30 2023 ] send WRQ for file: client.cpp
+[ Tue Nov 21 08:50:30 2023 ] Upload file: client.cpp finished.resent times: 0;Fullsize: 0
+[ Tue Nov 21 08:50:59 2023 ] send RRQ for file: client.cpp
+[ Tue Nov 21 08:50:59 2023 ] Download file: client.cpp finished.resent times: 0;Fullsize: 0
+[ Tue Nov 21 09:00:51 2023 ] send RRQ for file: 123.txt
+[ Tue Nov 21 09:04:00 2023 ] send RRQ for file: 123.txt
+[ Tue Nov 21 09:04:00 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 6
+[ Tue Nov 21 09:10:54 2023 ] send RRQ for file: 123.txt
+[ Tue Nov 21 09:10:54 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 6
+[ Tue Nov 21 12:15:37 2023 ] send RRQ for file: 123.txt
+[ Tue Nov 21 12:15:37 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 3
+[ Wed Nov 22 20:17:57 2023 ] send RRQ for file: photo.jpg
+[ Wed Nov 22 20:17:57 2023 ] Download file: photo.jpg finished.resent times: 0;Fullsize: 1308272
+[ Wed Nov 22 20:18:47 2023 ] send RRQ for file: photo.jpg
+[ Wed Nov 22 20:18:47 2023 ] Download file: photo.jpg finished.resent times: 0;Fullsize: 1308272
+[ Wed Nov 22 20:20:46 2023 ] send RRQ for file: ascii.jpg
+[ Wed Nov 22 20:20:46 2023 ] Download file: ascii.jpg finished.resent times: 0;Fullsize: 1308272
+[ Wed Nov 22 20:21:01 2023 ] send RRQ for file: oct.jpg
+[ Wed Nov 22 20:21:01 2023 ] Download file: oct.jpg finished.resent times: 0;Fullsize: 1308272
+[ Thu Nov 23 14:13:49 2023 ] send RRQ for file: 123.txt
+[ Thu Nov 23 14:13:49 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 3
+[ Thu Nov 23 14:20:55 2023 ] send RRQ for file: oct.jpg
+[ Thu Nov 23 14:21:53 2023 ] send RRQ for file: 123.txt
+[ Thu Nov 23 14:21:53 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 3
+[ Thu Dec 28 23:03:21 2023 ] send RRQ for file: 127.0.0.1
+[ Thu Dec 28 23:03:21 2023 ] Error 1 File not found
+[ Thu Dec 28 23:05:04 2023 ] send RRQ for file: 123.txt
+[ Thu Dec 28 23:05:04 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 3
+[ Thu Dec 28 23:35:35 2023 ] send RRQ for file: 123.txt
+[ Thu Dec 28 23:35:35 2023 ] Download file: 123.txt failed.
+[ Thu Dec 28 23:36:26 2023 ] send RRQ for file: 123.txt
+[ Thu Dec 28 23:36:26 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 8
+[ Fri Dec 29 00:01:56 2023 ] send RRQ for file: 123.txt
+[ Fri Dec 29 00:01:56 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 0
+[ Fri Dec 29 00:02:45 2023 ] send RRQ for file: ascii.jpg
+[ Fri Dec 29 00:02:46 2023 ] Download file: ascii.jpg finished.resent times: 0;Fullsize: 1308272
+[ Fri Dec 29 00:13:07 2023 ] send RRQ for file: 123.txt
+[ Fri Dec 29 00:13:07 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 0
+[ Fri Dec 29 00:13:45 2023 ] send WRQ for file: ascii.jpg
+[ Fri Dec 29 00:13:45 2023 ] Upload file: ascii.jpg finished.resent times: 0;Fullsize: 163
+[ Fri Dec 29 00:14:36 2023 ] send RRQ for file: ascii.jpg
+[ Fri Dec 29 00:14:36 2023 ] Download file: ascii.jpg finished.resent times: 0;Fullsize: 163
+[ Fri Dec 29 00:15:38 2023 ] send RRQ for file: ascii.jpg
+[ Fri Dec 29 00:15:38 2023 ] Download file: ascii.jpg finished.resent times: 0;Fullsize: 163
+[ Fri Dec 29 00:16:43 2023 ] send RRQ for file: ascii.jpg
+[ Fri Dec 29 00:16:43 2023 ] Download file: ascii.jpg finished.resent times: 0;Fullsize: 163
+[ Fri Dec 29 00:18:00 2023 ] send RRQ for file: ascii.jpg
+[ Fri Dec 29 00:18:00 2023 ] Download file: ascii.jpg failed.
+[ Fri Dec 29 00:25:15 2023 ] send RRQ for file: photo.png
+[ Fri Dec 29 00:25:15 2023 ] Download file: photo.png finished.resent times: 0;Fullsize: 766
+[ Fri Dec 29 00:27:20 2023 ] send RRQ for file: photo.png
+[ Fri Dec 29 00:27:20 2023 ] Download file: photo.png finished.resent times: 0;Fullsize: 766
+[ Fri Dec 29 00:28:12 2023 ] send RRQ for file: photo.png
+[ Fri Dec 29 00:28:12 2023 ] Download file: photo.png finished.resent times: 0;Fullsize: 766
+[ Fri Dec 29 00:32:57 2023 ] send RRQ for file: jpgphoto.jpg
+[ Fri Dec 29 00:32:57 2023 ] Error 1 File not found
+[ Fri Dec 29 00:33:40 2023 ] send WRQ for file: jpgphoto.jpg
+[ Fri Dec 29 00:33:40 2023 ] Upload file: jpgphoto.jpg finished.resent times: 0;Fullsize: 0
+[ Fri Dec 29 00:35:05 2023 ] send WRQ for file: jpgphoto.jpg
+[ Fri Dec 29 00:35:05 2023 ] Upload file: jpgphoto.jpg finished.resent times: 0;Fullsize: 0
+[ Fri Dec 29 00:38:42 2023 ] send WRQ for file: photo2.jpg
+[ Fri Dec 29 00:38:42 2023 ] Upload file: photo2.jpg finished.resent times: 0;Fullsize: 52
+[ Fri Dec 29 00:39:50 2023 ] send WRQ for file: photo2.jpg
+[ Fri Dec 29 00:39:50 2023 ] Upload file: photo2.jpg finished.resent times: 0;Fullsize: 1040
+[ Fri Dec 29 10:12:05 2023 ] send RRQ for file: 123.txt
+[ Fri Dec 29 10:12:05 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 632
+[ Fri Dec 29 10:37:08 2023 ] send RRQ for file: photo.jpg
+[ Fri Dec 29 10:37:08 2023 ] Error 1 File not found
+[ Fri Dec 29 21:41:06 2023 ] send RRQ for file: 123.txt
+[ Fri Dec 29 21:41:06 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 632
+[ Sat Dec 30 00:00:13 2023 ] send RRQ for file: 123.txt
+[ Sat Dec 30 00:00:13 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 632
+[ Sat Dec 30 00:04:07 2023 ] send RRQ for file: 123.txt
+[ Sat Dec 30 00:04:07 2023 ] Download file: 123.txt finished.resent times: 0;Fullsize: 632
+[ Sat Dec 30 00:09:44 2023 ] send WRQ for file: upload_ascii
+[ Sat Dec 30 00:10:15 2023 ] send WRQ for file: upload_ascii.txt
+[ Sat Dec 30 00:11:00 2023 ] send WRQ for file: upload_ascii.txt
+[ Sat Dec 30 00:12:10 2023 ] send RRQ for file: download_ascii
+[ Sat Dec 30 00:12:29 2023 ] send RRQ for file: download_ascii.txt
+[ Sat Dec 30 00:12:29 2023 ] Download file: download_ascii.txt finished.resent times: 0;Fullsize: 1019
+[ Sat Dec 30 00:59:51 2023 ] send RRQ for file: photo.png
+[ Sat Dec 30 00:59:51 2023 ] Download file: photo.png finished.resent times: 0;Fullsize: 2697
+[ Sat Dec 30 01:04:30 2023 ] send RRQ for file: photo.png
+[ Sat Dec 30 01:04:30 2023 ] Download file: photo.png finished.resent times: 0;Fullsize: 2697
+[ Sat Dec 30 04:12:52 2023 ] send RRQ for file: downloda_ascii.txt
+[ Sat Dec 30 04:12:52 2023 ] Error 1 File not found
+[ Sat Dec 30 04:13:30 2023 ] send RRQ for file: download_ascii.txt
+[ Sat Dec 30 04:13:30 2023 ] Download file: download_ascii.txt finished.resent times: 0;Fullsize: 1019
+[ Sat Dec 30 04:17:58 2023 ] send RRQ for file: download_oct
+[ Sat Dec 30 04:17:58 2023 ] Error 1 File not found
+[ Sat Dec 30 04:18:22 2023 ] send RRQ for file: download_oct.txt
+[ Sat Dec 30 04:18:22 2023 ] Download file: download_oct.txt finished.resent times: 0;Fullsize: 1019
+[ Sat Dec 30 04:22:03 2023 ] send WRQ for file: upload_ascii.txt
+[ Sat Dec 30 04:22:31 2023 ] send WRQ for file: upload_ascii.txt
+[ Sat Dec 30 04:22:31 2023 ] Upload file: upload_ascii.txt finished.resent times: 0;Fullsize: 992
+[ Sat Dec 30 04:26:35 2023 ] send WRQ for file: upload_oct.txt
+[ Sat Dec 30 04:26:35 2023 ] Upload file: upload_oct.txt finished.resent times: 0;Fullsize: 1019
+[ Sat Dec 30 04:36:42 2023 ] send RRQ for file: down_clumsy_ascii.txt
+[ Sat Dec 30 04:36:43 2023 ] Error 1 File not found
+[ Sat Dec 30 04:37:21 2023 ] send RRQ for file: download_clumsy_ascii.txt
+[ Sat Dec 30 04:37:21 2023 ] Download file: download_clumsy_ascii.txt finished.resent times: 0;Fullsize: 1019
+[ Sat Dec 30 04:38:48 2023 ] send RRQ for file: down_clumsy_ascii.txt
+[ Sat Dec 30 04:38:48 2023 ] Error 1 File not found
+[ Sat Dec 30 04:39:08 2023 ] send RRQ for file: download_clumsy_ascii.txt
+[ Sat Dec 30 04:39:47 2023 ] send RRQ for file: download_clumsy_ascii.txt
+[ Sat Dec 30 04:39:48 2023 ] Download file: download_clumsy_ascii.txt finished.resent times: 1;Fullsize: 4078
+[ Sat Dec 30 04:40:31 2023 ] send RRQ for file: download_clumsy_ascii.txt
+[ Sat Dec 30 04:40:31 2023 ] Error 0 Undefined error codeg
+[ Sat Dec 30 04:41:07 2023 ] send RRQ for file: download_clumsy_ascii.txt
+[ Sat Dec 30 04:41:07 2023 ] Download file: download_clumsy_ascii.txt failed.
+[ Sat Dec 30 04:41:27 2023 ] send RRQ for file: download_clumsy_ascii.txt
+[ Sat Dec 30 04:41:27 2023 ] Error 0 Undefined error codeg
+[ Sat Dec 30 04:42:03 2023 ] send RRQ for file: download_clumsy_ascii.txt
+[ Sat Dec 30 04:42:03 2023 ] Error 0 Undefined error codeg
+[ Sat Dec 30 04:42:29 2023 ] send RRQ for file: download_clumsy_ascii.txt
+[ Sat Dec 30 04:42:29 2023 ] Error 0 Undefined error codeg
+[ Sat Dec 30 04:42:52 2023 ] send RRQ for file: download_clumsy_ascii.txt
+[ Sat Dec 30 04:42:52 2023 ] Error 0 Undefined error codeg
+[ Sat Dec 30 04:45:08 2023 ] send RRQ for file: 127.0.0.1
+[ Sat Dec 30 04:45:08 2023 ] Error 1 File not found
+[ Sat Dec 30 04:46:10 2023 ] send RRQ for file: download_clumsy_ascii.txt
+[ Sat Dec 30 04:46:10 2023 ] Download file: download_clumsy_ascii.txt finished.resent times: 0;Fullsize: 4078
+[ Sat Dec 30 04:51:05 2023 ] send RRQ for file: download_clumsy_oct.txt
+[ Sat Dec 30 04:51:07 2023 ] Download file: download_clumsy_oct.txt finished.resent times: 2;Fullsize: 4078
+[ Sat Dec 30 04:53:19 2023 ] send WRQ for file: upload_clumsy_ascii.txt
+[ Sat Dec 30 04:53:21 2023 ] Upload file: upload_clumsy_ascii.txt finished.resent times: 2;Fullsize: 4078
+[ Sat Dec 30 04:56:07 2023 ] send WRQ for file: upload_clumsy_oct.txtxt
+[ Sat Dec 30 04:56:18 2023 ] send WRQ for file: upload_clumsy_oct.txtxt
+[ Sat Dec 30 04:56:27 2023 ] send WRQ for file: upload_clumsy_oct.txt
+[ Sat Dec 30 04:56:28 2023 ] Upload file: upload_clumsy_oct.txt failed.
+[ Sat Dec 30 04:56:40 2023 ] send WRQ for file: upload_clumsy_oct.txtxt
+[ Sat Dec 30 04:56:53 2023 ] send WRQ for file: upload_clumsy_oct.txt
+[ Sat Dec 30 04:56:55 2023 ] Upload file: upload_clumsy_oct.txt failed.
+[ Sat Dec 30 04:57:20 2023 ] send WRQ for file: upload_clumsy_oct.txt
+[ Sat Dec 30 04:57:23 2023 ] Upload file: upload_clumsy_oct.txt failed.
+[ Sat Dec 30 04:57:35 2023 ] send WRQ for file: upload_clumsy_oct.txt
+[ Sat Dec 30 04:57:35 2023 ] Upload file: upload_clumsy_oct.txt finished.resent times: 0;Fullsize: 4187
+[ Sat Dec 30 04:57:46 2023 ] send WRQ for file: upload_clumsy_oct.txt
+[ Sat Dec 30 04:57:48 2023 ] Upload file: upload_clumsy_oct.txt finished.resent times: 2;Fullsize: 4187
